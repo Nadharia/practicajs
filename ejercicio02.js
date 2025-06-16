@@ -1,6 +1,6 @@
 const frutas = ['manzana', 'banana', 'naranja', 'sandía'];
 
 
-const[a,b,c,d]=frutas
 
+const[a,,,b]=frutas
 console.log(`${a} ${b}`)
