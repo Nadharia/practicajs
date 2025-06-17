@@ -5,5 +5,5 @@ const persona = {
 };
 
 const {nombre,edad}=persona
-console.log(G`${nombre} tiene ${edad}`)
+console.log(`${nombre} tiene ${edad}`)
 
